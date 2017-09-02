@@ -1,0 +1,8 @@
+#<Files ~ "^\.(htaccess|htpasswd)$">
+#deny from all
+#</Files>
+#AuthUserFile /var/www/.htpasswd
+#AuthGroupFile /dev/null
+#AuthName "用户和密码都是我的手机号"
+#AuthType Basic
+#require valid-user
