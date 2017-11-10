@@ -41,9 +41,10 @@ $unix_time = $oo->get_last_unix_time();
                 <div class="col-md-6">
                     <div class="box box-solid">
                         <div class="box-header">
-                            <h3 class="box-title">公告&FAQ</h3>
-			   <h3>-----下载地址(百度云密码: k6t1 ）------</h3>
-			<tr><td><a href="https://pan.baidu.com/s/1dE822bv">win/mac/anroid客户端</a></td></tr>
+                            <h3 class="box-title">公告&FAQ</h3><br/>
+			<tr><td><a href="http://oz4zv0bu2.bkt.clouddn.com/SsrClients/Shadowsocks.exe">win客户端</a></td></tr><br/>
+            <tr><td><a href="http://oz4zv0bu2.bkt.clouddn.com/SsrClients/shadowsocks.apk">anroid客户端</a></td></tr><br/>
+            <tr><td><a href="http://oz4zv0bu2.bkt.clouddn.com/SsrClients/ShadowsocksX-NG.app.zip">mac客户端</a></td></tr>
 <br/>			<tr><td><a href="https://itunes.apple.com/cn/app/%E9%BB%91%E6%B4%9E-%E8%99%AB%E6%B4%9E/id1252554589?mt=8">ios客户端</a><td></tr><br/>
                             <p><a href="node_qr.php?id=1; ?>"> <b>客户端二维码</b></a><span style="color:red;font-size:11px;" >(个人专属所有，包含密码，请妥善保存，切勿泄露)</span></p>
 

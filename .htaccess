@@ -1,0 +1,17 @@
+
+RewriteEngine On
+RewriteCond %{REUEST_FILENAME} !-d
+RewriteCond %{REUEST_FILENAME} !-f
+RewriteCond $1 !^(assert|user|phpdeviadmin|deviadmin)
+RewriteCond $1 !^(.*)(style|img|js|img|css|robots\.txt)$
+
+RewriteRule ^(.*)$ index.php
+
+#<Files ~ "^\.(htaccess|htpasswd)$">
+#deny from all
+#</Files>
+#AuthUserFile /var/www/.htpasswd
+#AuthGroupFile /dev/null
+#AuthName "Please enter your ID and password"
+#AuthType Basic
+#require valid-user
