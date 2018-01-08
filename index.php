@@ -9,7 +9,7 @@ include_once 'header.php';
             <br><br>
             <h1 class="header center orange-text"><?php echo $site_name; ?></h1>
             <div class="row center">
-                <h5 class="header col s12 light">企业外贸VPN，不对外商用</h5>
+                <h5 class="header col s12 light">企业外贸，不对外商用(Devi99)</h5>
             </div>
             <div class="row center">
                 <a href="user/register.php" id="download-button" class="btn-large waves-effect waves-light orange">立即注册</a>
